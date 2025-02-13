@@ -29,6 +29,6 @@ def loop_function(x):
     print("Done!")
 
 
-number_of_loops = 10
+number_of_loops = 15
 
 loop_function(number_of_loops)
